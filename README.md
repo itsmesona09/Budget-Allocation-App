@@ -1,6 +1,6 @@
 # Budget-Allocation-App
 
-- Budget Allocation Application is a rich Front-End application created with React and ES6. I have connected React components using data and stat and rich React components with advanced features like Hooks and Redux.
+- Budget Allocation Application is a rich Front-End application created with React and ES6. I have connected React components using data and state and rich React components with advanced features like Hooks and Redux.
 - It includes components such as Budget, RemainingBudget, ExpenseTotal, ExpenseList, Currency and AllocationForm.
 
 ## AppContext.js:
@@ -31,6 +31,9 @@ Allows users to dynamically change the currency used in the application. It is i
 - Collectively provide a comprehensive budget management solution for a company, offering flexibility in budgeting, expense tracking, and currency preferences.
 - Users can easily navigate through the application to make adjustments, ensuring effective financial management.
 
+# Screenshots of the website:
+
+<img width="1440" alt="Screenshot 2024-01-30 at 2 39 39 PM" src="https://github.com/itsmesona09/Budget-Allocation-App/assets/111109613/b5936cc4-5272-408b-ad94-4e39b3e10267">
 
 
   
